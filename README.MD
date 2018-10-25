@@ -1,0 +1,1 @@
+Script to read text from an image file, translate it to a specified language, and save it to a word document. Language code of the language to be translated to should be specified as an argument.
